@@ -1,4 +1,4 @@
-# Health Insurance Claim Process Simplification Project
+# Maryland Insurance Claim Process Problem Solving Project
 
 ## Overview
 
