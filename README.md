@@ -50,7 +50,7 @@ By applying the Lean A3 problem-solving methodology, the project achieved the fo
 ## Learning Outcomes
 
 1. **Problem-Solving Skills**: Enhanced ability to identify, analyze, and address complex business process issues using structured methodologies like Lean A3.
-2. **Data Visualization**: Gained proficiency in visually representing processes and problems, aiding in better understanding and communication of issues.
+2. **Process Flow Visualization**: Gained proficiency in visually representing processes and problems, aiding in better understanding and communication of issues.
 3. **Root Cause Analysis**: Developed deeper insights into identifying underlying causes of process inefficiencies.
 4. **Process Improvement**: Improved skills in recommending and implementing effective solutions and countermeasures.
 5. **Monitoring and Evaluation**: Strengthened ability to monitor and evaluate the effectiveness of implemented solutions using data-driven approaches.
