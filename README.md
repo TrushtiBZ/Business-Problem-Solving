@@ -32,11 +32,11 @@ Insurance holders of Maryland Insurance have reported significant difficulties i
 The Lean A3 methodology was used for this project, which involves the following steps:
 - **Background**: Understanding the current state of the insurance claim process and identifying areas of complexity.
 - **Current Condition**: Mapping out the current process using a Process Flow Diagram.
-- **Goal Statement**: Setting clear objectives for process improvement.
+- **Goal Statement**: Setting clear objectives for process improvement and standardization.
 - **Root Cause Analysis**: Using tools like fishbone diagrams to identify underlying issues.
-- **Countermeasures**: Developing and implementing solutions to address the root causes.
+- **Countermeasures**: Developing and implementing solutions to address the root causes using fishbone method.
 - **Effect Confirmation**: Monitoring the results to ensure the solutions are effective, illustrated through line charts showing reduced processing times.
-- **Follow-Up Actions**: Ensuring sustained improvements and continuously looking for further enhancements.
+- **Follow-Up Actions**: Ensuring sustained improvements and standarddization for further enhancements.
 
 ## Results
 
